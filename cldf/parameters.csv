@@ -1,0 +1,959 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+all,all,98,ALL
+ashes,ashes,646,ASH
+bark,bark,1204,BARK
+belly,belly,1251,BELLY
+big,big,1202,BIG
+bird,bird,937,BIRD
+biteV,bite (V),,
+black,black,163,BLACK
+blood,blood,946,BLOOD
+bone,bone,1394,BONE
+breast,breast,1402,BREAST
+burnV,burn (V),,
+claw,claw,72,CLAW
+cloud,cloud,1489,CLOUD
+cold,cold,1287,COLD
+comeV,come (V),,
+dieV,die (V),,
+dog,dog,2009,DOG
+drinkV,drink (V),,
+dry,dry,1398,DRY
+ear,ear,1247,EAR
+earth,earth,1228,EARTH (SOIL)
+eatV,eat (V),,
+egg,egg,744,EGG
+eye,eye,1248,EYE
+fat,fat,1279,FAT (OBESE)
+feather,feather,1201,FEATHER
+fire,fire,221,FIRE
+fish,fish,227,FISH
+flyV,fly (V),,
+foot,foot,1301,FOOT
+full,full,1429,FULL
+giveV,give (V),,
+good,good,1035,GOOD
+green,green,1425,GREEN
+hair,hair,1040,HAIR
+hand,hand,1277,HAND
+head,head,1256,HEAD
+hearV,hear (V),,
+heart,heart,1223,HEART
+horn,horn,1393,HORN (ANATOMY)
+I,I,1209,I
+killV,kill (V),,
+knee,knee,1371,KNEE
+knowV,know (V),,
+leaf,leaf,628,LEAF
+lieV,lie (V),,
+liver,liver,1224,LIVER
+long,long,1203,LONG
+louse,louse,1392,LOUSE
+man,man,1554,MAN
+many,many,1198,MANY
+meat,meat,634,MEAT
+moon,moon,1313,MOON
+mountain,mountain,639,MOUNTAIN
+mouth,mouth,674,MOUTH
+name,name,1405,NAME
+neck,neck,1333,NECK
+new,new,1231,NEW
+night,night,1233,NIGHT
+nose,nose,1221,NOSE
+not,not,1240,NOT
+one,one,1493,ONE
+person,person,683,PERSON
+rainV,rain (V),,
+red,red,156,RED
+road,road,667,ROAD
+root,root,670,ROOT
+round,round,1395,ROUND
+sand,sand,671,SAND
+sayV,say (V),,
+seeV,see (V),,
+seed,seed,714,SEED
+sitV,sit (V),,
+skin,skin,763,SKIN
+sleepV,sleep (V),,
+small,small,1246,SMALL
+smoke,smoke,778,SMOKE (EXHAUST)
+standV,stand (V),,
+star,star,1430,STAR
+stone,stone,857,STONE
+sun,sun,1343,SUN
+swimV,swim (V),,
+tail,tail,1220,TAIL
+that,that,78,THAT
+this,this,1214,THIS
+thou,thou,1215,THOU
+tongue,tongue,1205,TONGUE
+tooth,tooth,1380,TOOTH
+tree,tree,906,TREE
+two,two,1498,TWO
+walkV,walk (V),,
+warm,warm,1232,WARM
+water,water,948,WATER
+we,we,1212,WE
+what,what,1236,WHAT
+white,white,1335,WHITE
+who,who,1235,WHO
+woman,woman,962,WOMAN
+yellow,yellow,1424,YELLOW
+far,far,1406,FAR
+heavy,heavy,1210,HEAVY
+near,near,1942,NEAR
+salt,salt,1274,SALT
+short,short,1645,SHORT
+snake,snake,730,SNAKE
+thin,thin,1400,THIN (SLIM)
+wind,wind,960,WIND
+worm,worm,1219,WORM
+year,year,1226,YEAR
+theworld,the world,965,WORLD
+theland,the land,626,LAND
+thesoil,the soil,1228,EARTH (SOIL)
+themud,the mud,640,MUD
+thesand,the sand,671,SAND
+themountainorhill,the mountain or hill,2118,MOUNTAIN OR HILL
+theclifforprecipice,the cliff or precipice,618,PRECIPICE
+theplain,the plain,652,PLAIN
+thevalley,the valley,921,VALLEY
+themainland,the mainland,166,MAINLAND
+theshore,the shore,113,SHORE
+thewater,the water,948,WATER
+thesea,the sea,1474,SEA
+calm,calm,258,CALM
+rough2,rough(2),259,ROUGH (OF SEA)
+thefoam,the foam,1768,FOAM
+theocean,the ocean,645,OCEAN
+thelake,the lake,624,LAKE
+thebay,the bay,663,BAY
+thelagoon,the lagoon,623,LAGOON
+thereef,the reef,660,REEF
+thecape,the cape,1662,CAPE
+thewave,the wave,978,WAVE
+theriverorstream,the river or stream,666,RIVER
+thewhirlpool,the whirlpool,1982,WHIRLPOOL
+thespringorwell,the spring or well,2144,SPRING OR WELL
+theswamp,the swamp,1145,SWAMP
+thewoodsorforest,the woods or forest,420,FOREST
+thewood,the wood,1803,WOOD
+thestoneorrock,the stone or rock,2125,STONE OR ROCK
+theearthquake,the earthquake,6,EARTHQUAKE
+thesky,the sky,1732,SKY
+thesun,the sun,1343,SUN
+themoon,the moon,1313,MOON
+thelightning,the lightning,1654,LIGHTNING
+thethunder,the thunder,1150,THUNDER
+thestorm,the storm,858,STORM
+therainbow,the rainbow,1733,RAINBOW
+thelight,the light,630,LIGHT (RADIATION)
+thedarkness,the darkness,11,DARKNESS
+theshadeorshadow,the shade or shadow,1388,SHADE
+thedew,the dew,1977,DEW
+theair,the air,27,AIR
+thewind,the wind,960,WIND
+thecloud,the cloud,1489,CLOUD
+thefog,the fog,249,FOG
+therain,the rain,658,RAIN (PRECIPITATION)
+thesnow,the snow,784,SNOW
+theweather,the weather,952,WEATHER
+thefire,the fire,221,FIRE
+thesmoke,the smoke,778,SMOKE (EXHAUST)
+tolight,to light,737,LIGHT (IGNITE)
+toextinguish,to extinguish,127,EXTINGUISH
+thematch,the match,1133,MATCH
+thefirewood,the firewood,10,FIREWOOD
+theman,the man,1554,MAN
+thewoman,the woman,962,WOMAN
+male1,male(1),1553,MALE
+female1,female(1),1551,FEMALE
+theboy,the boy,1366,BOY
+thegirl,the girl,1646,GIRL
+thechild1,the child(1),1304,CHILD (YOUNG HUMAN)
+thebaby,the baby,1289,BABY
+thehusband,the husband,1200,HUSBAND
+thewife,the wife,1199,WIFE
+tomarry,to marry,203,MARRY
+thewedding,the wedding,1259,WEDDING
+thedivorce,the divorce,1134,DIVORCE
+thefather,the father,1217,FATHER
+themother,the mother,1216,MOTHER
+theson,the son,1620,SON
+thechild2,the child(2),1801,CHILD (DESCENDANT)
+thegrandfather,the grandfather,1383,GRANDFATHER
+theoldman,the old man,406,OLD MAN
+thegrandmother,the grandmother,1496,GRANDMOTHER
+thegrandson,the grandson,1618,GRANDSON
+thegranddaughter,the granddaughter,1619,GRANDDAUGHTER
+theuncle,the uncle,1327,UNCLE
+theaunt,the aunt,1272,AUNT
+thenephew,the nephew,1063,NEPHEW
+theniece,the niece,1642,NIECE
+thecousin,the cousin,1643,COUSIN
+thefatherinlawofaman,the father-in-law (of a man),2255,FATHER-IN-LAW (OF MAN)
+themotherinlawofaman,the mother-in-law (of a man),2256,MOTHER-IN-LAW (OF WOMAN)
+thesoninlawofaman,the son-in-law (of a man),2267,SON-IN-LAW (OF MAN)
+thedaughterinlawofaman,the daughter-in-law (of a man),2265,DAUGHTER-IN-LAW (OF MAN)
+thestepfather,the stepfather,237,STEPFATHER
+thestepmother,the stepmother,236,STEPMOTHER
+thestepdaughter,the stepdaughter,1058,STEPDAUGHTER
+thewidower,the widower,1981,WIDOWER
+thefamily,the family,194,FAMILY
+yousingular,you (singular),1215,THOU
+youplural,you (plural),1213,YOU
+they,they,817,THEY
+theanimal,the animal,619,ANIMAL
+thelivestock,the livestock,631,LIVESTOCK
+thestableorstall,the stable or stall,851,STABLE
+thecattle,the cattle,1153,CATTLE
+thebull,the bull,1008,BULL
+theox,the ox,1169,OX
+thecow,the cow,1007,COW
+thecalf,the calf,1989,CALF
+thesheep,the sheep,1331,SHEEP
+theram,the ram,1344,RAM
+thesow,the sow,1351,SOW (FEMALE PIG)
+thepig,the pig,1337,PIG
+thehegoat,the he-goat,264,HE-GOAT
+thehorse,the horse,615,HORSE
+thestallion,the stallion,936,STALLION
+themare,the mare,938,MARE
+thefoalorcolt,the foal or colt,1647,FOAL
+themule,the mule,890,MULE
+thefowl,the fowl,265,FOWL
+thehen,the hen,1514,HEN
+thechicken,the chicken,1318,CHICKEN
+thegoose,the goose,1187,GOOSE
+thenest,the nest,539,NEST
+thebird,the bird,937,BIRD
+theheron,the heron,758,HERON
+theeagle,the eagle,1905,EAGLE
+thehawk,the hawk,307,HAWK
+thevulture,the vulture,1185,VULTURE
+theparrot,the parrot,882,PARROT
+thecrow,the crow,913,CROW
+thedove,the dove,1853,DOVE
+thedog,the dog,2009,DOG
+therabbit,the rabbit,1136,RABBIT
+themouseorrat,the mouse or rat,2139,MUROID (MOUSE OR RAT)
+thefish,the fish,227,FISH
+thefin,the fin,213,FIN
+thescale,the scale,266,SCALE
+theshark,the shark,1110,SHARK
+theporpoiseordolphin,the porpoise or dolphin,1479,DOLPHIN
+thewhale,the whale,957,WHALE
+thewolf,the wolf,522,WOLF
+thefox,the fox,1312,FOX
+thedeer,the deer,1936,DEER
+theheadlouse,the head louse,1392,LOUSE
+thenit,the nit,267,NIT
+theflea,the flea,232,FLEA
+thewasp,the wasp,1517,WASP
+thefly,the fly,1504,FLY (INSECT)
+thesandflyormidgeorgnat,the sandfly or midge or gnat,95,SANDFLY
+themosquito,the mosquito,1509,MOSQUITO
+thebutterfly,the butterfly,1791,BUTTERFLY
+thesnail,the snail,1543,SNAIL
+thefrog,the frog,503,FROG
+thebody,the body,1480,BODY
+theskinorhide,the skin or hide,763,SKIN
+theflesh,the flesh,2259,FLESH
+thehair,the hair,1040,HAIR
+thebeard,the beard,678,BEARD
+thedandruff,the dandruff,576,DANDRUFF
+theblood,the blood,946,BLOOD
+theveinorartery,the vein or artery,525,BLOOD VESSEL
+thebone,the bone,1394,BONE
+therib,the rib,801,RIB
+thehorn,the horn,1393,HORN (ANATOMY)
+thetail,the tail,1220,TAIL
+theback,the back,1291,BACK
+thehead,the head,1256,HEAD
+theskull,the skull,1605,SKULL
+thebrain,the brain,1583,BRAIN
+theface,the face,1560,FACE
+thejaw,the jaw,798,JAW
+thecheek,the cheek,1730,CHEEK
+theeyebrow,the eyebrow,1173,EYEBROW
+theeyelid,the eyelid,17,EYELID
+toblink,to blink,1655,BLINK
+thenose,the nose,1221,NOSE
+thenostril,the nostril,1178,NOSTRIL
+thenasalmucus,the nasal mucus,208,NASAL MUCUS (SNOT)
+themouth,the mouth,674,MOUTH
+thelip,the lip,478,LIP
+thetongue,the tongue,1205,TONGUE
+theneck,the neck,1333,NECK
+thenapeoftheneck,the nape of the neck,1347,NAPE (OF NECK)
+theshoulder,the shoulder,1482,SHOULDER
+thecollarbone,the collarbone,1994,COLLARBONE
+thearmpit,the armpit,1886,ARMPIT
+theelbow,the elbow,981,ELBOW
+thewrist,the wrist,799,WRIST
+thehand,the hand,1277,HAND
+thefinger,the finger,1303,FINGER
+theclaw,the claw,72,CLAW
+theleg,the leg,1297,LEG
+thethigh,the thigh,800,THIGH
+thecalfoftheleg,the calf of the leg,498,CALF OF LEG
+theknee,the knee,1371,KNEE
+thefoot,the foot,1301,FOOT
+theankle,the ankle,803,ANKLE
+theheel,the heel,980,HEEL
+thetoe,the toe,1389,TOE
+thewing,the wing,1257,WING
+thechest,the chest,1592,CHEST
+thebreast,the breast,1402,BREAST
+thenavel,the navel,1838,NAVEL
+theheart,the heart,1223,HEART
+thelung,the lung,688,LUNG
+theliver,the liver,1224,LIVER
+thekidney,the kidney,489,KIDNEY
+thestomach,the stomach,819,STOMACH
+thewaist,the waist,1681,WAIST
+thehip,the hip,1745,HIP
+thebuttocks,the buttocks,834,BUTTOCKS
+thewomb,the womb,804,WOMB
+tobreathe,to breathe,1407,BREATHE
+toyawn,to yawn,1028,YAWN
+tocough,to cough,879,COUGH
+tosneeze,to sneeze,1621,SNEEZE
+toperspire,to perspire,126,SWEAT (PERSPIRE)
+tospit,to spit,1440,SPIT
+tovomit,to vomit,1278,VOMIT
+tolick,to lick,319,LICK
+tosleep,to sleep,1585,SLEEP
+tosnore,to snore,1983,SNORE
+todream,to dream,1920,DREAM (SOMETHING)
+toshiver,to shiver,52,SHIVER
+tobeget,to beget,1152,BEGET
+pregnant,pregnant,1123,PREGNANT
+tobealive,to be alive,1422,BE ALIVE
+todie,to die,1494,DIE
+tokill,to kill,1417,KILL
+thecorpse,the corpse,767,CORPSE
+tobury,to bury,1719,BURY
+thegrave,the grave,1773,GRAVE
+strong,strong,785,STRONG
+weak,weak,1601,WEAK
+healthy,healthy,1364,HEALTHY
+sickill,sick/ill,1847,SICK
+thegoitregoiter,the goitre/goiter,1957,GOITER
+thecold,the cold,102,COMMON COLD (DISEASE)
+thewoundorsore,the wound or sore,1109,WOUND
+thebruise,the bruise,1148,BRUISE
+theswelling,the swelling,1903,SWELLING
+theitch,the itch,148,ITCH
+theblister,the blister,1584,BLISTER
+theboil,the boil,793,BOIL (OF SKIN)
+thescar,the scar,497,SCAR
+tocure,to cure,499,CURE
+themedicine,the medicine,1372,MEDICINE
+thepoison,the poison,655,POISON
+tired,tired,1757,TIRED
+lazy,lazy,1564,LAZY
+bald,bald,1125,BALD
+lame,lame,320,LAME
+deaf,deaf,996,DEAF
+blind,blind,1653,BLIND
+drunk,drunk,1463,DRUNK
+naked,naked,590,NAKED
+toeat,to eat,1336,EAT
+thefood,the food,256,FOOD
+ripe,ripe,178,RIPE
+rotten,rotten,1728,ROTTEN
+todrink,to drink,1401,DRINK
+thefamine,the famine,199,FAMINE
+tosuck,to suck,1421,SUCK
+tochew,to chew,321,CHEW
+toswallow,to swallow,897,SWALLOW
+toroastorfry,to roast or fry,2146,ROAST OR FRY
+theoven,the oven,1143,OVEN
+thepot,the pot,1462,POT
+thekettle,the kettle,854,KETTLE
+thepan,the pan,31,PAN
+theplate,the plate,480,PLATE
+thebowl,the bowl,1530,BOWL
+thecup,the cup,476,CUP
+thesaucer,the saucer,271,SAUCER
+thefork,the fork,1302,FORK
+thetongs,the tongs,272,TONGS
+themeal,the meal,1526,MEAL
+thelunch,the lunch,768,LUNCH
+thedinner,the dinner,1833,DINNER (SUPPER)
+thesupper,the supper,1833,DINNER (SUPPER)
+topeel,to peel,275,PEEL
+tosieveortostrain,to sieve or to strain,86,SIEVE
+thebread,the bread,1368,BREAD
+thedough,the dough,273,DOUGH
+toknead,to knead,274,KNEAD
+tocrushortogrind,to crush or to grind,1033,GRIND
+themeat,the meat,634,MEAT
+thesoup,the soup,1547,SOUP
+thebean,the bean,832,BEAN
+thefig,the fig,322,FIG
+thenut,the nut,191,NUT
+theoil,the oil,1484,OIL (ORGANIC SUBSTANCE)
+thegreaseorfat,the grease or fat,323,FAT (ORGANIC SUBSTANCE)
+thesalt,the salt,1274,SALT
+thehoney,the honey,942,HONEY
+themilk,the milk,635,MILK
+thebutter,the butter,1245,BUTTER
+thedrink,the drink,731,BEVERAGE
+toputon,to put on,158,PUT ON
+theclothingorclothes,the clothing or clothes,1895,CLOTHES
+thetailor,the tailor,881,TAILOR
+thecloth,the cloth,1616,CLOTH
+thewool,the wool,964,WOOL
+thelinen,the linen,916,LINEN
+thefelt,the felt,325,FELT
+theleather,the leather,629,LEATHER
+tospin,to spin,121,SPIN
+thespindle,the spindle,277,SPINDLE
+toweave,to weave,133,WEAVE
+theneedle1,the needle(1),1382,NEEDLE (FOR SEWING)
+todye,to dye,157,DYE
+thecollar,the collar,2012,COLLAR
+thesockorstocking,the sock or stocking,329,STOCKING
+theboot,the boot,585,BOOT
+theshoemaker,the shoemaker,875,SHOEMAKER
+thehatorcap,the hat or cap,2130,HEADGEAR
+theveil,the veil,1151,VEIL
+thebutton,the button,757,BUTTON
+thepin,the pin,64,PIN
+theornamentoradornment,the ornament or adornment,917,ORNAMENT
+thebracelet,the bracelet,1754,BRACELET
+thenecklace,the necklace,1961,NECKLACE
+thecomb,the comb,1475,COMB
+thebrush,the brush,1821,BRUSH
+theointment,the ointment,1926,OINTMENT
+tolive,to live,363,"DWELL (LIVE, RESIDE)"
+thetent,the tent,1316,TENT
+theyardorcourt,the yard or court,736,YARD
+theroom,the room,1450,ROOM
+thedoororgate,the door or gate,1567,DOOR
+thelock,the lock,1596,LOCK
+thelatchordoorbolt,the latch or door-bolt,1012,LATCH
+thefloor,the floor,1632,FLOOR
+thefireplace,the fireplace,185,FIREPLACE
+thestove,the stove,859,STOVE
+thechimney,the chimney,1305,CHIMNEY
+theladder,the ladder,1464,LADDER
+thebed,the bed,1663,BED
+theblanket,the blanket,806,BLANKET
+thechair,the chair,1476,CHAIR
+thelamportorch,the lamp or torch,2131,TORCH OR LAMP
+thecandle,the candle,1273,CANDLE
+theshelf,the shelf,745,SHELF
+thetrough,the trough,205,TROUGH
+theroof,the roof,769,ROOF
+thepostorpole,the post or pole,281,POST
+thearch,the arch,876,ARCH
+themason,the mason,877,MASON
+thebrick,the brick,1006,BRICK
+thefarmer,the farmer,979,FARMER
+thefield,the field,212,FIELD
+thegarden,the garden,586,GARDEN
+tocultivate,to cultivate,1541,CULTIVATE
+thefence,the fence,1690,FENCE
+theditch,the ditch,2002,DITCH
+toploughplow,to plough/plow,1921,PLOUGH
+thefurrow,the furrow,1794,FURROW
+todig,to dig,1418,DIG
+thespade,the spade,1176,SPADE
+theshovel,the shovel,1901,SHOVEL
+thehoe,the hoe,284,HOE
+thefork2pitchfork,the fork(2)/pitchfork,337,PITCHFORK
+therake,the rake,338,RAKE
+tosow,to sow,748,SOW SEEDS
+theseed,the seed,714,SEED
+theharvest,the harvest,611,HARVEST
+thegrain,the grain,605,GRAIN
+thebarley,the barley,932,BARLEY
+therye,the rye,23,RYE
+theoats,the oats,60,OAT
+thegrass,the grass,606,GRASS
+thehay,the hay,342,HAY
+toplant,to plant,1486,PLANT (SOMETHING)
+thebranch,the branch,1531,BRANCH
+theleaf,the leaf,628,LEAF
+thetree,the tree,906,TREE
+thebeech,the beech,1950,BEECH
+thepine,the pine,1740,PINE
+thefir,the fir,1915,FIR
+thevine,the vine,343,VINE
+thepipe,the pipe,1124,PIPE
+thebark,the bark,1204,BARK
+thesap,the sap,345,SAP
+thenettle,the nettle,33,NETTLE
+todo,to do,2575,DO OR MAKE
+thework,the work,984,WORK (LABOUR)
+tobend,to bend,2004,BEND
+tofold,to fold,1470,FOLD
+totie,to tie,1917,TIE
+therope,the rope,1218,ROPE
+tostrikeorhitorbeat,to strike or hit or beat,2133,STRIKE OR BEAT
+tocut,to cut,1432,CUT
+tochop,to chop,155,CHOP
+tostab,to stab,1434,STAB
+tobreak,to break,680,BREAK (DESTROY OR GET DESTROYED)
+broken,broken,588,BROKEN
+tosplit,to split,1437,SPLIT
+totear,to tear,1735,TEAR (SHRED)
+toskin,to skin,291,PULL OFF (SKIN)
+torub,to rub,1449,RUB
+tostretch,to stretch,214,STRETCH
+tospreadout,to spread out,38,SPREAD OUT
+tohangup,to hang up,357,HANG UP
+tosqueeze,to squeeze,1414,SQUEEZE
+topour,to pour,1487,POUR
+towash,to wash,1453,WASH
+thetool,the tool,1361,TOOL
+thecarpenter,the carpenter,1042,CARPENTER
+tobuild,to build,1840,BUILD
+tobore,to bore,1501,BORE
+tohollowout,to hollow out,46,HOLLOW OUT
+thehammer,the hammer,1481,HAMMER
+thenail,the nail,502,NAIL (TOOL)
+theglue,the glue,1069,GLUE
+theblacksmith,the blacksmith,1001,BLACKSMITH
+toforge,to forge,288,FORGE
+tocast,to cast,211,CAST
+thegold,the gold,1369,GOLD
+thesilver,the silver,759,SILVER
+thecopper,the copper,1825,COPPER
+theiron,the iron,621,IRON
+thetinortinplate,the tin or tinplate,358,TINPLATE
+theclay,the clay,1399,CLAY
+theglass,the glass,604,GLASS
+toweaveorplaitbraid,to weave or plait/braid,1729,PLAIT OR BRAID OR WEAVE
+thefan,the fan,1971,FAN (OBJECT)
+tocarve,to carve,228,CARVE
+thesculptor,the sculptor,914,SCULPTOR
+thechisel,the chisel,1979,CHISEL
+toturn,to turn,1588,TURN
+towrap,to wrap,1113,WRAP
+toroll,to roll,827,ROLL
+totwist,to twist,430,TWIST
+torise,to rise,568,RISE (MOVE UPWARDS)
+toraiseorlift,to raise or lift,501,LIFT
+tofall,to fall,1280,FALL
+todrip,to drip,2253,DRIP (EMIT LIQUID)
+tothrow,to throw,1456,THROW
+tocatch,to catch,702,CATCH
+toflow,to flow,2003,FLOW
+tosink,to sink,1088,SINK (DESCEND)
+toswim,to swim,1439,SWIM
+tofly,to fly,1441,FLY (MOVE THROUGH AIR)
+toblow,to blow,175,BLOW (OF WIND)
+tocrawl,to crawl,96,CRAWL
+toslideorslip,to slide or slip,1324,SLIP
+tojump,to jump,1829,JUMP
+todance,to dance,1879,DANCE
+tolimp,to limp,366,LIMP
+togo,to go,695,GO
+toclimb,to climb,1102,CLIMB
+togoout,to go out,1107,GO OUT
+tocomeback,to come back,581,COME BACK
+toleave,to leave,1752,LEAVE
+tofollow,to follow,1085,FOLLOW
+tocarry,to carry,700,CARRY
+tobring,to bring,692,BRING
+tosend,to send,1127,SEND
+tolead,to lead,43,LEAD (GUIDE)
+toride,to ride,367,RIDE
+topush,to push,1452,PUSH
+theroad,the road,667,ROAD
+thepath,the path,2252,PATH
+thebridge,the bridge,1011,BRIDGE
+thewheel,the wheel,710,WHEEL
+theyoke,the yoke,14,YOKE
+theoar,the oar,108,RUDDER
+thepaddle,the paddle,234,PADDLE
+themast,the mast,184,MAST
+thesail,the sail,786,SAILCLOTH
+tohave,to have,773,HAVE
+totake,to take,1749,TAKE
+tograsp,to grasp,2021,GRASP
+tohold,to hold,1448,HOLD
+toget,to get,694,GET
+tokeep,to keep,1477,KEEP
+thething,the thing,738,THING
+togive,to give,1447,GIVE
+togiveback,to give back,85,GIVE BACK
+topreserve,to preserve,1997,PRESERVE
+todestroy,to destroy,681,DESTROY
+tolookfor,to look for,1468,LOOK FOR
+tofind,to find,719,FIND
+tolose,to lose,1660,LOSE
+rich,rich,712,RICH
+poor,poor,1674,POOR
+thebeggar,the beggar,1934,BEGGAR
+thedebt,the debt,1914,DEBT
+topay,to pay,718,PAY
+thebill,the bill,1081,BILL
+tohire,to hire,856,HIRE
+thewages,the wages,1122,WAGES
+toearn,to earn,733,EARN
+tobuy,to buy,1869,BUY
+tosell,to sell,1571,SELL
+theprice,the price,657,PRICE
+expensive,expensive,1426,EXPENSIVE
+toshare,to share,884,SHARE
+toweigh,to weigh,1098,WEIGH
+theplace,the place,723,PLACE (POSITION)
+toput,to put,998,PUT
+toremain,to remain,987,REMAIN
+theremains,the remains,838,REMAINS
+togather,to gather,7,GATHER
+topileup,to pile up,1576,PILE UP
+tojoin,to join,1743,JOIN
+todivide,to divide,1119,DIVIDE
+toopen,to open,1156,OPEN
+toshut,to shut,1046,SHUT
+high,high,1265,HIGH
+low,low,721,LOW
+thetop,the top,1753,TOP
+thebottom,the bottom,690,BOTTOM
+pointed,pointed,372,POINTED
+theside,the side,682,SIDE
+themiddle,the middle,1093,MIDDLE
+right1,right(1),1019,RIGHT
+thewest,the west,1817,WEST
+thesouth,the south,1595,SOUTH
+wide,wide,1243,WIDE
+narrow,narrow,1267,NARROW
+thick,thick,1244,THICK
+deep,deep,1593,DEEP
+flat,flat,1633,FLAT
+thehook,the hook,1071,HOOK
+thesquare,the square,850,SQUARE
+theball,the ball,1845,BALL
+theline,the line,1048,LINE
+thehole,the hole,1667,HOLE
+tochange,to change,1264,CHANGE
+twelve,twelve,1707,TWELVE
+ahundred,a hundred,1634,HUNDRED
+athousand,a thousand,1843,THOUSAND
+tocount,to count,1420,COUNT
+more,more,1992,MORE
+few,few,1242,FEW
+thecrowd,the crowd,2023,CROWD
+thepart,the part,779,PART
+thehalf,the half,816,HALF
+first,first,728,FIRST
+second,second,1384,SECOND
+thepair,the pair,1888,PAIR
+third,third,1859,THIRD
+thetime,the time,892,TIME
+and,and,1577,AND
+animal,animal,619,ANIMAL
+at,at,1461,AT
+back,back,1291,BACK
+bad,bad,1292,BAD
+because,because,1157,BECAUSE
+bite,bite,1403,BITE
+blow,blow,175,BLOW (OF WIND)
+breathe,breathe,1407,BREATHE
+burn,burn,2102,BURN
+child,child,2099,CHILD
+come,come,1446,COME
+count,count,1420,COUNT
+cut,cut,1432,CUT
+day,day,1225,DAY (NOT NIGHT)
+die,die,1494,DIE
+dig,dig,1418,DIG
+dirty,dirty,1230,DIRTY
+drink,drink,1401,DRINK
+dull,dull,379,BLUNT
+dust,dust,2,DUST
+eat,eat,1336,EAT
+fall,fall,1280,FALL
+father,father,1217,FATHER
+fear,fear,1419,FEAR (BE AFRAID)
+fight,fight,1423,FIGHT
+fingernail,fingernail,1896,FINGERNAIL OR TOENAIL
+five,five,493,FIVE
+float,float,1574,FLOAT
+flow,flow,2003,FLOW
+flower,flower,239,FLOWER
+fly,fly,1441,FLY (MOVE THROUGH AIR)
+fog,fog,249,FOG
+four,four,1500,FOUR
+freeze,freeze,1431,FREEZE
+fruit,fruit,1507,FRUIT
+give,give,1447,GIVE
+grass,grass,606,GRASS
+guts,guts,1334,GUTS
+he,he,1211,HE
+hear,hear,1408,HEAR
+here,here,136,HERE
+hit,hit,1433,HIT
+hold,hold,1448,HOLD
+how,how,1239,HOW
+hunt,hunt,1435,HUNT
+husband,husband,1200,HUSBAND
+ice,ice,617,ICE
+if,if,1459,IF
+in,in,1460,IN
+kill,kill,1417,KILL
+know,know,1410,KNOW (SOMETHING)
+lake,lake,624,LAKE
+laugh,laugh,1355,LAUGH
+left,left,244,LEFT
+leg,leg,1297,LEG
+lie,lie,1411,LIE (REST)
+live,live,1422,BE ALIVE
+mother,mother,1216,MOTHER
+old,old,1229,OLD
+other,other,197,OTHER
+play,play,1413,PLAY
+pull,pull,1455,PULL
+push,push,1452,PUSH
+rain,rain,1253,RAIN (RAINING)
+right,right,1019,RIGHT
+rightside,rightside,1019,RIGHT
+river,river,666,RIVER
+rope,rope,1218,ROPE
+rub,rub,1449,RUB
+say,say,1458,SAY
+scratch,scratch,1436,SCRATCH
+sea,sea,1474,SEA
+see,see,1409,SEE
+sew,sew,1457,SEW
+sharp,sharp,1396,SHARP
+sing,sing,1261,SING
+sit,sit,1416,SIT
+sky,sky,1732,SKY
+sleep,sleep,1585,SLEEP
+smell,smell,1586,SMELL (PERCEIVE)
+smooth,smooth,1234,SMOOTH
+snow,snow,1255,SNOWING
+some,some,1241,SOME
+spit,spit,1440,SPIT
+split,split,1437,SPLIT
+squeeze,squeeze,1414,SQUEEZE
+stab,stab,1434,STAB
+stand,stand,1442,STAND
+stick,stick,1295,STICK
+straight,straight,1404,STRAIGHT
+suck,suck,1421,SUCK
+swell,swell,1573,SWELL
+swim,swim,1439,SWIM
+there,there,1937,THERE
+think,think,1415,THINK (REFLECT)
+three,three,492,THREE
+throw,throw,1456,THROW
+tie,tie,1917,TIE
+turn,turn,1588,TURN
+vomit,vomit,1278,VOMIT
+walk,walk,1443,WALK
+wash,wash,1453,WASH
+wet,wet,1726,WET
+when,when,1238,WHEN
+where,where,1237,WHERE
+wife,wife,1199,WIFE
+wing,wing,1257,WING
+wipe,wipe,1454,WIPE
+with,with,1340,WITH
+woods,woods,420,FOREST
+you,you,1213,YOU
+barkoftree,bark (of tree),1204,BARK
+greasefat,grease (fat),323,FAT (ORGANIC SUBSTANCE)
+ash,ash,646,ASH
+pathroad,path (road),667,ROAD
+hotwarm,hot (warm),2272,HOT OR WARM
+ye,ye,1213,YOU
+arm,arm,1673,ARM
+lip,lip,478,LIP
+fur,fur,580,FUR
+navel,navel,1838,NAVEL
+salivasplits,saliva (splits),,
+milk,milk,635,MILK
+gras,gras,,
+dark,dark,706,DARK
+correctright,correct (right),1725,CORRECT (RIGHT)
+stickstab,stick (stab),1295,STICK
+pukevomit,puke (vomit),1278,VOMIT
+down,down,1326,DOWN
+up,up,1591,UP
+alivelive,alive (live),1422,BE ALIVE
+go,go,695,GO
+grease,grease,323,FAT (ORGANIC SUBSTANCE)
+hot,hot,1286,HOT
+human,human,683,PERSON
+knife,knife,1352,KNIFE
+now,now,1376,NOW
+path,path,2252,PATH
+true,true,1657,TRUE
+walkgo,walk (go),,
+warmhot,warm (hot),,
+legfoot,leg/foot,2098,FOOT OR LEG
+towalk,to walk,1443,WALK
+roadpath,road/path,667,ROAD
+tocome,to come,1446,COME
+intestines,intestines,1991,INTESTINES
+shoulder,shoulder,1482,SHOULDER
+toknowbeknowledgeable,"to know, be knowledgeable",1410,KNOW (SOMETHING)
+tothink,to think,2271,THINK
+tofear,to fear,1419,FEAR (BE AFRAID)
+tosniffsmell,"to sniff, smell",1586,SMELL (PERCEIVE)
+tolaugh,to laugh,1355,LAUGH
+tocry,to cry,1839,CRY
+tocook,to cook,1100,COOK (SOMETHING)
+tobite,to bite,1403,BITE
+tohear,to hear,1408,HEAR
+tosee,to see,1409,SEE
+toliedown,to lie down,215,LIE DOWN
+tosit,to sit,1416,SIT
+tostand,to stand,1442,STAND
+personhumanbeing,person/human being,683,PERSON
+manmale,man/male,1554,MAN
+womanfemale,woman/female,962,WOMAN
+house,house,1252,HOUSE
+thatchroof,thatch/roof,279,THATCH
+tosay,to say,1458,SAY
+totieupfasten,"to tie up, fasten",1094,FASTEN
+tosew,to sew,1457,SEW
+needle,needle,1382,NEEDLE (FOR SEWING)
+tohunt,to hunt,1435,HUNT
+toshoot,to shoot,1172,SHOOT
+tostabpierce,"to stab, pierce",1434,STAB
+tohit,to hit,1433,HIT
+tosteal,to steal,713,STEAL
+todiebedead,"to die, be dead",2101,BE DEAD OR DIE
+tolivebealive,"to live, be alive",1422,BE ALIVE
+toscratch,to scratch,1436,SCRATCH
+tocuthack,"to cut, hack",1432,CUT
+stickwood,stick/wood,1295,STICK
+dullblunt,"dull, blunt",379,BLUNT
+towork,to work,1086,WORK (ACTIVITY)
+tochoose,to choose,1750,CHOOSE
+togrow,to grow,479,GROW
+toswell,to swell,1573,SWELL
+toopenuncover,"to open, uncover",1156,OPEN
+topoundbeat,"to pound, beat",354,POUND
+rat,rat,1490,RAT
+meatflesh,meat/flesh,634,MEAT
+fatgrease,fat/grease,323,FAT (ORGANIC SUBSTANCE)
+wormearthworm,worm (earthworm),1219,WORM
+mosquito,mosquito,1509,MOSQUITO
+spider,spider,843,SPIDER
+branch,branch,1531,BRANCH
+earthsoil,earth/soil,1228,EARTH (SOIL)
+woodsforest,woods/forest,420,FOREST
+thunder,thunder,1150,THUNDER
+lightning,lightning,1654,LIGHTNING
+toburn,to burn,2102,BURN
+painfulsick,"painful, sick",2103,PAINFUL OR SICK
+shyashamed,"shy, ashamed",487,SHY
+badevil,"bad, evil",1292,BAD
+correcttrue,"correct, true",1725,CORRECT (RIGHT)
+tohide,to hide,602,HIDE (CONCEAL)
+ininside,"in, inside",1460,IN
+above,above,1741,ABOVE
+below,below,1485,BELOW OR UNDER
+heshe,he/she,262,HE OR SHE OR IT
+nonot,"no, not",1240,NOT
+One,One,1493,ONE
+Two,Two,1498,TWO
+Three,Three,492,THREE
+Four,Four,1500,FOUR
+Five,Five,493,FIVE
+Six,Six,1703,SIX
+Seven,Seven,1704,SEVEN
+Eight,Eight,1705,EIGHT
+Nine,Nine,1483,NINE
+Ten,Ten,1515,TEN
+Twenty,Twenty,1710,TWENTY
+Fifty,Fifty,1717,FIFTY
+OneHundred,One Hundred,1634,HUNDRED
+OneThousand,One Thousand,1843,THOUSAND
+ear1,ear 1,,
+i,i,,
+lie1V,lie 1 (V),,
+hail,hail,104,HAILING
+rainbow,rainbow,1733,RAINBOW
+thisyear,this year,513,THIS YEAR
+today,today,1283,TODAY
+wheat,wheat,1077,WHEAT
+sunflower,sunflower,1956,SUNFLOWER
+spinach,spinach,975,SPINACH
+cabbage,cabbage,774,CABBAGE
+sweetpotato,sweet potato,159,SWEET POTATO
+pig,pig,1337,PIG
+rooster,rooster,1511,ROOSTER
+chicken,chicken,1318,CHICKEN
+sparrow,sparrow,1854,SPARROW
+mouse,mouse,1491,MOUSE
+bedbug,bedbug,1949,BEDBUG
+window,window,1375,WINDOW
+doorsills,doorsills,2185,DOORSILLS
+kitchen,kitchen,1365,KITCHEN
+chimney,chimney,1305,CHIMNEY
+table,table,1775,TABLE
+stairs,stairs,34,STAIRS
+forehead,forehead,123,FOREHEAD
+face,face,1560,FACE
+lefthand,left hand,2182,LEFT HAND
+righthand,right hand,2183,RIGHT HAND
+fist,fist,1473,FIST
+forefinger,forefinger,577,FOREFINGER
+son,son,1620,SON
+daughter,daughter,1357,DAUGHTER
+breakfast,breakfast,1322,BREAKFAST
+lunch,lunch,768,LUNCH
+supper,supper,1833,DINNER (SUPPER)
+noodles,noodles,973,NOODLE
+sojasauce,soja sauce,,
+chopsticks,chopsticks,1987,CHOPSTICKS
+spoon,spoon,1378,SPOON
+boy,boy,1366,BOY
+girl,girl,1646,GIRL
+oldman,old man,406,OLD MAN
+doctor,doctor,597,PHYSICIAN
+cook,cook,1100,COOK (SOMETHING)
+beggar,beggar,1934,BEGGAR
+nurse,nurse,1104,NURSE
+becomesick,become sick,1847,SICK
+catchacold,catch a cold,2184,CATCH A COLD
+humpback,humpback,99,HUNCHBACK
+self,self,1993,SELF
+whatkindof,what kind of,727,WHICH
+classifierperson,classifier (person),516,PERSON (CLASSIFIER)
+classifierpair,classifier (pair),2089,PAIR (CLASSIFIER)
+classifierpillow,classifier (pillow),2166,PILLOW (CLASSIFIER)
+classifiervehicle,classifier (vehicle),2167,VEHICLE (CLASSIFIER)
+classifiercow,classifier (cow),2168,COW (CLASSIFIER)
+classifierpig,classifier (pig),2169,PIG (CLASSIFIER)
+awhile,a while,726,WHILE
+onetime,one time,374,ONE TIME
+on,on,1741,ABOVE
+under,under,1485,BELOW OR UNDER
+inthemiddle,in the middle,1093,MIDDLE
+inside,inside,1606,INSIDE
+outside,outside,762,OUTSIDE
+sweet,sweet,717,SWEET
+sour,sour,1906,SOUR
+salty,salty,1091,SALTY
+light,light,,
+wellsmelling,well smelling,376,FRAGRANT
+stinky,stinky,42,STINKING
+tiny,tiny,1246,SMALL
+clean,clean,704,CLEAN
+cheap,cheap,1887,CHEAP
+justright,just right,1725,CORRECT (RIGHT)
+only,only,1580,ONLY
+from,from,693,FROM
+insteadof,instead of,1652,INSTEAD
+take,take,1749,TAKE
+onpurpose,on purpose,1031,ON PURPOSE
+six,six,1703,SIX
+seven,seven,1704,SEVEN
+eight,eight,1705,EIGHT
+nine,nine,1483,NINE
+ten,ten,1515,TEN
+eleven,eleven,1706,ELEVEN
+twenty,twenty,1710,TWENTY
+twopairs,two pairs,,
