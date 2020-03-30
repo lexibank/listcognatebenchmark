@@ -225,7 +225,7 @@
 | ə̃ | 18 | ✓ | ✓ |
 | ᴇ | 18 | ? | ? |
 | ₁₂ | 18 | ✓ | ✓ |
-| r̝ | 17 | ? | ? |
+| r̝ | 17 | ✓ | ✓ |
 | ɛɪ | 17 | ✓ | ✓ |
 | oˀ | 16 | ✓ | ✓ |
 | t̪ | 16 | ✓ | ✓ |
@@ -266,7 +266,7 @@
 | l̩ | 10 | ✓ | ✓ |
 | p͡s | 10 | ✓ | ✓ |
 | t͡n | 10 | ? | ? |
-| ł | 10 | ? | ? |
+| ł | 10 | ✓ | ✓ |
 | ɑɪ̯ | 10 | ✓ | ✓ |
 | ɛˀ | 10 | ✓ | ✓ |
 | ɵː | 10 | ✓ | ✓ |
@@ -478,7 +478,7 @@
 | oːʌ | 1 | ✓ | ✓ |
 | o̞o̞ | 1 | ✓ | ✓ |
 | tʰː | 1 | ✓ | ✓ |
-| t̝ | 1 | ? | ? |
+| t̝ | 1 | ✓ | ✓ |
 | t̪ʰː | 1 | ✓ | ✓ |
 | t͡ɕ | 1 | ✓ | ✓ |
 | uo̞ | 1 | ✓ | ✓ |
@@ -561,107 +561,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------|:-----------|:----------|:--------------|:---------------------------------|
-| Albanian-fog-1 | Albanian | fog | mjeguł | m j e g u <s> ł </s> |
-| Albanian-hit-1 | Albanian | hit | cəło | c ə <s> ł </s> o |
-| Albanian-ice-1 | Albanian | ice | akuł | a k u <s> ł </s> |
-| Albanian-round-1 | Albanian | round | rːumbułak | rː u m b u <s> ł </s> a k |
-| Albanian-sky-1 | Albanian | sky | cieł | c i e <s> ł </s> |
-| Albanian-star-1 | Albanian | star | ył | y <s> ł </s> |
-| Albanian-sun-1 | Albanian | sun | dieł | d i e <s> ł </s> |
-| Albanian-thin-1 | Albanian | thin | hoł | h o <s> ł </s> |
-| Albanian-vomit-1 | Albanian | vomit | vjeł | v j e <s> ł </s> |
-| Albanian-woods-1 | Albanian | woods | pył | p y <s> ł </s> |
-| Bihari-come-1 | Bihari | come | aeəb | <s> aeə </s> b |
-| Bihari-eat-1 | Bihari | eat | kʰaeəb | kʰ <s> aeə </s> b |
-| Bihari-float-1 | Bihari | float | cʰətəlaeəb | cʰ ə t ə l <s> aeə </s> b |
-| Bihari-foot-1 | Bihari | foot | pyaer | p <s> yae </s> r |
-| Bihari-good-2 | Bihari | good | barhĩyã | b a r h <s> ĩyã </s> |
-| Bihari-green-1 | Bihari | green | həriyər | h ə r <s> iyə </s> r |
-| Bihari-leg-1 | Bihari | leg | pyaer | p <s> yae </s> r |
-| Bihari-rub-1 | Bihari | rub | tel#ləgaeəb | t e l # l ə g <s> aeə </s> b |
-| Bihari-scratch-1 | Bihari | scratch | culculaeəb | c u l c u l <s> aeə </s> b |
-| Bihari-seed-1 | Bihari | seed | biya | b <s> iya </s> |
-| Bihari-sing-1 | Bihari | sing | gaeəb | g <s> aeə </s> b |
-| Bihari-smell-1 | Bihari | smell | gəndʱ#aeəb | g ə n dʱ # <s> aeə </s> b |
-| Bihari-some-2 | Bihari | some | kayo | k <s> ayo </s> |
-| Bihari-stand-1 | Bihari | stand | ʈʰarh#haeəb | ʈʰ a r h # h <s> aeə </s> b |
-| Bihari-vomit-1 | Bihari | vomit | kəyə#kərəb | k <s> əyə </s> # k ə r ə b |
-| Bihari-walk-3 | Bihari | walk | jaeəb | j <s> aeə </s> b |
-| Bihari-when-1 | Bihari | when | kəhiya | k ə h <s> iya </s> |
-| Bihari-yellow-1 | Bihari | yellow | piyər | p <s> iyə </s> r |
-| Czech-animal-1 | Czech | animal | zviːr̝ɛ | z v iː <s> r̝ </s> ɛ |
-| Czech-at-2 | Czech | at | pr̝ɪ | p <s> r̝ </s> ɪ |
-| Czech-belly-1 | Czech | belly | br̝ɪxo | b <s> r̝ </s> ɪ x o |
-| Czech-burn-1 | Czech | burn | hor̝ɛt | h o <s> r̝ </s> ɛ t |
-| Czech-come-1 | Czech | come | pr̝ɪjiːt | p <s> r̝ </s> ɪ j iː t |
-| Czech-cut-1 | Czech | cut | r̝ɛzat | <s> r̝ </s> ɛ z a t |
-| Czech-four-1 | Czech | four | tʂtɪr̝ɪ | t ʂ t ɪ <s> r̝ </s> ɪ |
-| Czech-guts-1 | Czech | guts | vɲɪtr̝noscɪ | v ɲ ɪ t <s> r̝ </s> n o s c ɪ |
-| Czech-hit-1 | Czech | hit | ʊdɛr̝ɪt | ʊ d ɛ <s> r̝ </s> ɪ t |
-| Czech-river-1 | Czech | river | r̝ɛka | <s> r̝ </s> ɛ k a |
-| Czech-root-1 | Czech | root | kor̝ɛn | k o <s> r̝ </s> ɛ n |
-| Czech-rub-1 | Czech | rub | tr̝iːt | t <s> r̝ </s> iː t |
-| Czech-say-1 | Czech | say | r̝iːkat | <s> r̝ </s> iː k a t |
-| Czech-sea-1 | Czech | sea | mor̝ɛ | m o <s> r̝ </s> ɛ |
-| Czech-straight-1 | Czech | straight | pr̝iːmiː | p <s> r̝ </s> iː m iː |
-| Czech-three-1 | Czech | three | tr̝ɪ | t <s> r̝ </s> ɪ |
-| Czech-wing-1 | Czech | wing | kr̝ɪːdlo | k <s> r̝ </s> ɪː d l o |
-| Danish-wipe-1 | Danish | wipe | d̥ʰɶɐ̯ʌ | d̥ʰ <s> ɶɐ̯ʌ </s> |
-| DutchList-blow-1 | DutchList | blow | wayən | w <s> ayə </s> n |
-| English-fire-1 | English | fire | faɪər | f <s> aɪə </s> r |
-| English-fire-2 | English | fire | faɪə | f <s> aɪə </s> |
-| English-flower-1 | English | flower | flaʊə | f l <s> aʊə </s> |
-| French-thetop-1 | French | thetop | sɔmmɛ | s ɔ <s> mm </s> ɛ |
-| German-fire-1 | German | fire | fɔyər | f <s> ɔyə </s> r |
-| German-fire-2 | German | fire | fɔyɐ | f <s> ɔyɐ </s> |
-| German-spit-1 | German | spit | ʃpeiən | ʃ p <s> eiə </s> n |
-| Icelandic-all-1 | Icelandic | all | at͡lir | a <s> t͡l </s> i r |
-| Icelandic-big-2 | Icelandic | big | mɪːcɪt͡l | m ɪː c ɪ <s> t͡l </s> |
-| Icelandic-drinkV-1 | Icelandic | drinkV | trɛʰka | t r <s> ɛʰ </s> k a |
-| Icelandic-full-1 | Icelandic | full | fʏt͡lʏr | f ʏ <s> t͡l </s> ʏ r |
-| Icelandic-green-1 | Icelandic | green | krait͡n | k r ai <s> t͡n </s> |
-| Icelandic-horn-1 | Icelandic | horn | hɔrt͡n | h ɔ r <s> t͡n </s> |
-| Icelandic-mountain-1 | Icelandic | mountain | fjat͡l | f j a <s> t͡l </s> |
-| Icelandic-night-1 | Icelandic | night | nouʰt | n <s> ouʰ </s> t |
-| Icelandic-not-1 | Icelandic | not | ɛʰcɪ | <s> ɛʰ </s> c ɪ |
-| Icelandic-one-1 | Icelandic | one | eit͡n | ei <s> t͡n </s> |
-| Icelandic-round-1 | Icelandic | round | kʰriŋlouʰtʏr | kʰ r i ŋ l <s> ouʰ </s> t ʏ r |
-| Icelandic-short-1 | Icelandic | short | stʏʰtʏr | s t <s> ʏʰ </s> t ʏ r |
-| Icelandic-small-1 | Icelandic | small | liːtɪt͡l | l iː t ɪ <s> t͡l </s> |
-| Icelandic-snake-1 | Icelandic | snake | st͡lauŋka | s <s> t͡l </s> au ŋ k a |
-| Icelandic-star-1 | Icelandic | star | stjart͡na | s t j a r <s> t͡n </s> a |
-| Icelandic-stone-1 | Icelandic | stone | steit͡n | s t ei <s> t͡n </s> |
-| Icelandic-tail-2 | Icelandic | tail | skɔʰt | s k <s> ɔʰ </s> t |
-| Icelandic-water-1 | Icelandic | water | vaʰtn̥ | v <s> aʰ </s> t n̥ |
-| Kagoshima-far-1 | Kagoshima | far | toie | t <s> oie </s> |
-| Kagoshima-lake-1 | Kagoshima | lake | mizuiuɴ | m i z <s> uiu </s> ɴ |
-| Kagoshima-say-1 | Kagoshima | say | juiu | j <s> uiu </s> |
-| Kagoshima-suck-1 | Kagoshima | suck | suiu | s <s> uiu </s> |
-| Navajo-breathe-1 | Navajo | breathe | ńdiʣih | <s> ń </s> d i ʣ i h |
-| Navajo-hit-1 | Navajo | hit | ńdiːɬʦˀin | <s> ń </s> d iː ɬ ʦˀ i n |
-| Oriya-animal-3 | Oriya | animal | ǰɔntu | <s> ǰ </s> ɔ n t u |
-| Oriya-bark-1 | Oriya | bark | čheli | <s> č </s> h e l i |
-| Oriya-fat-2 | Oriya | fat | čɔrbi | <s> č </s> ɔ r b i |
-| Oriya-fear-1 | Oriya | fear | bʱɔyɔ#kɔriba | bʱ <s> ɔyɔ </s> # k ɔ r i b a |
-| Oriya-fight-2 | Oriya | fight | ǰuddʱɔ#kɔriba | <s> ǰ </s> u dːʱ ɔ # k ɔ r i b a |
-| Oriya-freeze-1 | Oriya | freeze | bɔsiǰiba | b ɔ s i <s> ǰ </s> i b a |
-| Oriya-heart-1 | Oriya | heart | hrudɔyɔ | h r u d <s> ɔyɔ </s> |
-| Oriya-lie-1 | Oriya | lie | kɔreiu | k ɔ r <s> eiu </s> |
-| Oriya-rotten-1 | Oriya | rotten | pɔča | p ɔ <s> č </s> a |
-| Oriya-seed-1 | Oriya | seed | mɔnǰi | m ɔ n <s> ǰ </s> i |
-| Oriya-skin-1 | Oriya | skin | čhalɔ | <s> č </s> h a l ɔ |
-| Oriya-split-1 | Oriya | split | čiriba | <s> č </s> i r i b a |
-| Oriya-suck-1 | Oriya | suck | čusiba | <s> č </s> u s i b a |
-| Oriya-wet-2 | Oriya | wet | bʱiǰa | bʱ i <s> ǰ </s> a |
-| Oriya-wipe-1 | Oriya | wipe | počhi | p o <s> č </s> h i |
-| Oriya-woods-2 | Oriya | woods | ǰɔŋgɔlɔ | <s> ǰ </s> ɔ ŋ g ɔ l ɔ |
-| Urdu-he-1 | Urdu | he | woʰ | w <s> oʰ </s> |
-| Urdu-mouth-1 | Urdu | mouth | mʊ̃ʰ | m <s> ʊ̃ʰ </s> |
-| Urdu-that-1 | Urdu | that | woʰ | w <s> oʰ </s> |
-| Urdu-they-1 | Urdu | they | woʰ | w <s> oʰ </s> |
-| Urdu-this-1 | Urdu | this | jeʰ | j <s> eʰ </s> |
-| Urdu-three-1 | Urdu | three | t̝in | <s> t̝ </s> i n |
+|:-------------------------|:-----------|:--------------|:--------------|:---------------------------------|
+| Bihari-10_vomit-1 | Bihari | 10_vomit | kəyə#kərəb | k <s> əyə </s> # k ə r ə b |
+| Bihari-1150_foot-1 | Bihari | 1150_foot | pyaer | p <s> yae </s> r |
+| Bihari-247_leg-1 | Bihari | 247_leg | pyaer | p <s> yae </s> r |
+| Bihari-483_yellow-1 | Bihari | 483_yellow | piyər | p <s> iyə </s> r |
+| Bihari-51_scratch-1 | Bihari | 51_scratch | culculaeəb | c u l c u l <s> aeə </s> b |
+| Bihari-523_walk-3 | Bihari | 523_walk | jaeəb | j <s> aeə </s> b |
+| Bihari-611_some-2 | Bihari | 611_some | kayo | k <s> ayo </s> |
+| Bihari-623_eat-1 | Bihari | 623_eat | kʰaeəb | kʰ <s> aeə </s> b |
+| Bihari-629_sing-1 | Bihari | 629_sing | gaeəb | g <s> aeə </s> b |
+| Bihari-642_seed-1 | Bihari | 642_seed | biya | b <s> iya </s> |
+| Bihari-705_float-1 | Bihari | 705_float | cʰətəlaeəb | cʰ ə t ə l <s> aeə </s> b |
+| Bihari-729_green-1 | Bihari | 729_green | həriyər | h ə r <s> iyə </s> r |
+| Bihari-734_rub-1 | Bihari | 734_rub | tel#ləgaeəb | t e l # l ə g <s> aeə </s> b |
+| Bihari-755_when-1 | Bihari | 755_when | kəhiya | k ə h <s> iya </s> |
+| Bihari-828_stand-1 | Bihari | 828_stand | ʈʰarh#haeəb | ʈʰ a r h # h <s> aeə </s> b |
+| Bihari-897_come-1 | Bihari | 897_come | aeəb | <s> aeə </s> b |
+| Bihari-983_good-2 | Bihari | 983_good | barhĩyã | b a r h <s> ĩyã </s> |
+| Bihari-993_smell-1 | Bihari | 993_smell | gəndʱ#aeəb | g ə n dʱ # <s> aeə </s> b |
+| Danish-592_wipe-1 | Danish | 592_wipe | d̥ʰɶɐ̯ʌ | d̥ʰ <s> ɶɐ̯ʌ </s> |
+| DutchList-924_blow-1 | DutchList | 924_blow | wayən | w <s> ayə </s> n |
+| English-449_fire-1 | English | 449_fire | faɪər | f <s> aɪə </s> r |
+| English-449_fire-2 | English | 449_fire | faɪə | f <s> aɪə </s> |
+| English-449_fire-4 | English | 449_fire | faɪər | f <s> aɪə </s> r |
+| English-774_flower-1 | English | 774_flower | flaʊə | f l <s> aʊə </s> |
+| French-288_thetop-1 | French | 288_thetop | sɔmmɛ | s ɔ <s> mm </s> ɛ |
+| German-1036_spit-1 | German | 1036_spit | ʃpeiən | ʃ p <s> eiə </s> n |
+| German-449_fire-1 | German | 449_fire | fɔyər | f <s> ɔyə </s> r |
+| German-449_fire-2 | German | 449_fire | fɔyɐ | f <s> ɔyɐ </s> |
+| German-449_fire-4 | German | 449_fire | fɔyər | f <s> ɔyə </s> r |
+| Hindi-548_bird-1 | Hindi | 548_bird | ʧɪɽɪyaː | ʧ ɪ ɽ <s> ɪyaː </s> |
+| Icelandic-1005_one-1 | Icelandic | 1005_one | eit͡n | ei <s> t͡n </s> |
+| Icelandic-1005_one-2 | Icelandic | 1005_one | eit͡n | ei <s> t͡n </s> |
+| Icelandic-1173_not-1 | Icelandic | 1173_not | ɛʰcɪ | <s> ɛʰ </s> c ɪ |
+| Icelandic-1173_not-2 | Icelandic | 1173_not | ɛʰcɪ | <s> ɛʰ </s> c ɪ |
+| Icelandic-1216_star-1 | Icelandic | 1216_star | stjart͡na | s t j a r <s> t͡n </s> a |
+| Icelandic-1216_star-2 | Icelandic | 1216_star | stjart͡na | s t j a r <s> t͡n </s> a |
+| Icelandic-158_horn-1 | Icelandic | 158_horn | hɔrt͡n | h ɔ r <s> t͡n </s> |
+| Icelandic-158_horn-2 | Icelandic | 158_horn | hɔrt͡n | h ɔ r <s> t͡n </s> |
+| Icelandic-216_short-1 | Icelandic | 216_short | stʏʰtʏr | s t <s> ʏʰ </s> t ʏ r |
+| Icelandic-216_short-2 | Icelandic | 216_short | stʏʰtʏr | s t <s> ʏʰ </s> t ʏ r |
+| Icelandic-362_big-2 | Icelandic | 362_big | mɪːcɪt͡l | m ɪː c ɪ <s> t͡l </s> |
+| Icelandic-362_big-4 | Icelandic | 362_big | mɪːcɪt͡l | m ɪː c ɪ <s> t͡l </s> |
+| Icelandic-402_round-1 | Icelandic | 402_round | kʰriŋlouʰtʏr | kʰ r i ŋ l <s> ouʰ </s> t ʏ r |
+| Icelandic-402_round-2 | Icelandic | 402_round | kʰriŋlouʰtʏr | kʰ r i ŋ l <s> ouʰ </s> t ʏ r |
+| Icelandic-412_tail-2 | Icelandic | 412_tail | skɔʰt | s k <s> ɔʰ </s> t |
+| Icelandic-412_tail-4 | Icelandic | 412_tail | skɔʰt | s k <s> ɔʰ </s> t |
+| Icelandic-487_drink-1 | Icelandic | 487_drink | trɛʰka | t r <s> ɛʰ </s> k a |
+| Icelandic-487_drink-2 | Icelandic | 487_drink | trɛʰka | t r <s> ɛʰ </s> k a |
+| Icelandic-531_stone-1 | Icelandic | 531_stone | steit͡n | s t ei <s> t͡n </s> |
+| Icelandic-531_stone-2 | Icelandic | 531_stone | steit͡n | s t ei <s> t͡n </s> |
+| Icelandic-557_night-1 | Icelandic | 557_night | nouʰt | n <s> ouʰ </s> t |
+| Icelandic-557_night-2 | Icelandic | 557_night | nouʰt | n <s> ouʰ </s> t |
+| Icelandic-693_water-1 | Icelandic | 693_water | vaʰtn̥ | v <s> aʰ </s> t n̥ |
+| Icelandic-693_water-2 | Icelandic | 693_water | vaʰtn̥ | v <s> aʰ </s> t n̥ |
+| Icelandic-721_full-1 | Icelandic | 721_full | fʏt͡lʏr | f ʏ <s> t͡l </s> ʏ r |
+| Icelandic-721_full-2 | Icelandic | 721_full | fʏt͡lʏr | f ʏ <s> t͡l </s> ʏ r |
+| Icelandic-729_green-1 | Icelandic | 729_green | krait͡n | k r ai <s> t͡n </s> |
+| Icelandic-729_green-2 | Icelandic | 729_green | krait͡n | k r ai <s> t͡n </s> |
+| Icelandic-951_snake-1 | Icelandic | 951_snake | st͡lauŋka | s <s> t͡l </s> au ŋ k a |
+| Icelandic-951_snake-2 | Icelandic | 951_snake | st͡lauŋka | s <s> t͡l </s> au ŋ k a |
+| Icelandic-981_small-1 | Icelandic | 981_small | liːtɪt͡l | l iː t ɪ <s> t͡l </s> |
+| Icelandic-981_small-3 | Icelandic | 981_small | liːtɪt͡l | l iː t ɪ <s> t͡l </s> |
+| Icelandic-995_all-1 | Icelandic | 995_all | at͡lir | a <s> t͡l </s> i r |
+| Icelandic-995_all-2 | Icelandic | 995_all | at͡lir | a <s> t͡l </s> i r |
+| Icelandic-999_mountain-1 | Icelandic | 999_mountain | fjat͡l | f j a <s> t͡l </s> |
+| Icelandic-999_mountain-2 | Icelandic | 999_mountain | fjat͡l | f j a <s> t͡l </s> |
+| Kagoshima-1050_suck-1 | Kagoshima | 1050_suck | suiu | s <s> uiu </s> |
+| Kagoshima-1125_say-1 | Kagoshima | 1125_say | juiu | j <s> uiu </s> |
+| Kagoshima-234_far-1 | Kagoshima | 234_far | toie | t <s> oie </s> |
+| Kagoshima-78_lake-1 | Kagoshima | 78_lake | mizuiuɴ | m i z <s> uiu </s> ɴ |
+| Mailu-22_how-1 | Mailu | 22_how | abo#ːua | a b o <s> #ː </s> u a |
+| Mailu-230_tobreathe-1 | Mailu | 230_tobreathe | mau#ːuriuri | m a u <s> #ː </s> u r i u r i |
+| Mailu-871_where-1 | Mailu | 871_where | abo#ːde | a b o <s> #ː </s> d e |
+| Navajo-197_hit-1 | Navajo | 197_hit | ńdiːɬʦˀin | <s> ń </s> d iː ɬ ʦˀ i n |
+| Navajo-764_breathe-1 | Navajo | 764_breathe | ńdiʣih | <s> ń </s> d i ʣ i h |
+| Nias-22_how-1 | Nias | 22_how | he#ːwisa | h e <s> #ː </s> w i s a |
+| Nias-390_when-1 | Nias | 390_when | he#ːmega | h e <s> #ː </s> m e g a |
+| Nias-498_mosquito-1 | Nias | 498_mosquito | di#ːmbõhõ | d i <s> #ː </s> m b õ h õ |
+| Nias-874_thunder-1 | Nias | 874_thunder | rita#ːmbanua | r i t a <s> #ː </s> m b a n u a |
+| Oriya-1050_suck-1 | Oriya | 1050_suck | čusiba | <s> č </s> u s i b a |
+| Oriya-1127_lie-1 | Oriya | 1127_lie | kɔreiu | k ɔ r <s> eiu </s> |
+| Oriya-1164_fat-2 | Oriya | 1164_fat | čɔrbi | <s> č </s> ɔ r b i |
+| Oriya-1188_fight-2 | Oriya | 1188_fight | ǰuddʱɔ#kɔriba | <s> ǰ </s> u dːʱ ɔ # k ɔ r i b a |
+| Oriya-134_freeze-1 | Oriya | 134_freeze | bɔsiǰiba | b ɔ s i <s> ǰ </s> i b a |
+| Oriya-188_animal-3 | Oriya | 188_animal | ǰɔntu | <s> ǰ </s> ɔ n t u |
+| Oriya-214_split-1 | Oriya | 214_split | čiriba | <s> č </s> i r i b a |
+| Oriya-241_heart-1 | Oriya | 241_heart | hrudɔyɔ | h r u d <s> ɔyɔ </s> |
+| Oriya-330_rotten-1 | Oriya | 330_rotten | pɔča | p ɔ <s> č </s> a |
+| Oriya-411_woods-2 | Oriya | 411_woods | ǰɔŋgɔlɔ | <s> ǰ </s> ɔ ŋ g ɔ l ɔ |
+| Oriya-435_fear-1 | Oriya | 435_fear | bʱɔyɔ#kɔriba | bʱ <s> ɔyɔ </s> # k ɔ r i b a |
+| Oriya-592_wipe-1 | Oriya | 592_wipe | počhi | p o <s> č </s> h i |
+| Oriya-625_wet-2 | Oriya | 625_wet | bʱiǰa | bʱ i <s> ǰ </s> a |
+| Oriya-642_seed-1 | Oriya | 642_seed | mɔnǰi | m ɔ n <s> ǰ </s> i |
+| Oriya-840_bark-1 | Oriya | 840_bark | čheli | <s> č </s> h e l i |
+| Oriya-856_skin-1 | Oriya | 856_skin | čhalɔ | <s> č </s> h a l ɔ |
+| Urdu-1049_he-1 | Urdu | 1049_he | woʰ | w <s> oʰ </s> |
+| Urdu-1112_they-1 | Urdu | 1112_they | woʰ | w <s> oʰ </s> |
+| Urdu-508_mouth-1 | Urdu | 508_mouth | mʊ̃ʰ | m <s> ʊ̃ʰ </s> |
+| Urdu-684_that-1 | Urdu | 684_that | woʰ | w <s> oʰ </s> |
+| Urdu-704_this-1 | Urdu | 704_this | jeʰ | j <s> eʰ </s> |
 
 (100 rows)
 

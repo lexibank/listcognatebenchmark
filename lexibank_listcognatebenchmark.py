@@ -1,14 +1,14 @@
 # coding=utf-8
 from __future__ import unicode_literals, print_function
 
-from clldutils.path import Path
+from pathlib import Path
 import lingpy as lp
 
 from clldutils.path import Path
 from clldutils.misc import slug
-from pylexibank.dataset import Metadata
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank import Dataset as BaseDataset
 from pylexibank.util import getEvoBibAsBibtex
+from pylexibank import progressbar
 
 
 correct_languages = {
@@ -29,7 +29,6 @@ correct_concepts = {
     "saliva (splits)": "saliva (spit)"
 }
 
-
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = 'listcognatebenchmark'
@@ -48,70 +47,79 @@ class Dataset(BaseDataset):
         'BAI.csv': ('Wang2006', None),
     }
 
-    def cmd_download(self, **kw):
+    def cmd_download(self, args):
         d = Path('SequenceComparison-SupplementaryMaterial-cc4bf85/benchmark/cognates/')
-        self.raw.download_and_unpack(
+        self.raw_dir.download_and_unpack(
             self.metadata.url,
             *[d.joinpath(dset) for dset in self.DSETS],
-            **{'log': self.log})
-        self.raw.write('sources.bib', getEvoBibAsBibtex(*set(v[0] for v in self.DSETS.values()), **kw))
+            **{'log': args.log})
+        self.raw_dir.write('sources.bib', 
+                getEvoBibAsBibtex(*set(v[0] for v in self.DSETS.values())))
 
-    def cmd_install(self, **kw):
-        gloss2con = {x['GLOSS']: x['CONCEPTICON_ID'] for x in self.concepts}
+    def cmd_makecldf(self, args):
+    
+        concepts = {}
+        for concept in self.concepts:
+            idx = '{0}_{1}'.format(concept['NUMBER'], slug(concept['ENGLISH']))
+            args.writer.add_concept(
+                    ID=idx,
+                    Name=concept['ENGLISH'],
+                    Concepticon_ID=concept['CONCEPTICON_ID']
+                    )
+            concepts[concept['ENGLISH']] = idx
+        args.writer.add_languages(
+                id_factory=lambda l: slug(l['Name'], lowercase=False)
+                )
+        args.writer.add_sources()
+        for dset, (srckey, col) in progressbar(
+                sorted(self.DSETS.items()),
+                desc='adding datasets'):
+            try:
+                wl = lp.Wordlist(str(self.raw_dir / dset), col=col or 'doculect')
+            except:
+                args.log.warn('missing datasets {0}'.format(dset))
+                raise
 
-        with self.cldf as ds:
-            ds.add_languages(id_factory=lambda l: slug(l['Name'], lowercase=False))
-            for dset, (srckey, col) in sorted(self.DSETS.items()):
-                try:
-                    wl = lp.Wordlist(str(self.raw / dset), col=col or 'doculect')
-                except:
-                    print(dset)
-                    raise
-                if 'doculect' not in wl.header:
-                    wl.add_entries('doculect', col, lambda i: i)
-                if 'tokens' not in wl.header:
-                    wl.add_entries(
-                        'tokens',
-                        'ipa',
-                        lp.ipa2tokens,
-                        merge_vowels=False,
-                        expand_nasals=True)
+            if 'doculect' not in wl.header:
+                wl.add_entries('doculect', col, lambda i: i)
+            if 'tokens' not in wl.header:
+                wl.add_entries(
+                    'tokens',
+                    'ipa',
+                    lp.ipa2tokens,
+                    merge_vowels=False,
+                    expand_nasals=True)
 
-                ds.add_sources()
-                errors = []
-                cognates = []
-                for k in wl:
-                    concept = wl[k, 'concept']
-                    if '(V)' in concept:
-                        concept = concept[:-4]
-                    concept = correct_concepts.get(concept, concept)
-                    if concept not in gloss2con:
-                        errors += [concept]
-                    doculect = correct_languages.get(wl[k, 'doculect'], wl[k, 'doculect'])
-                    loan = wl[k, 'cogid'] < 0
-                    cogid = abs(wl[k, 'cogid'])
+            errors = []
+            cognates = []
+            for k in wl:
+                concept = wl[k, 'concept']
+                if '(V)' in concept:
+                    concept = concept[:-4]
+                concept = correct_concepts.get(concept, concept)
+                if concept not in concepts:
+                    errors += [concept]
+                doculect = correct_languages.get(wl[k, 'doculect'], wl[k, 'doculect'])
+                loan = wl[k, 'cogid'] < 0
+                cogid = abs(wl[k, 'cogid'])
+                
+                row = args.writer.add_form_with_segments(
+                    Language_ID=slug(doculect, lowercase=False),
+                    Parameter_ID=concepts[concept],
+                    Value=wl[k, 'ipa'],
+                    Form=wl[k, 'ipa'],
+                    Source=[srckey],
+                    Segments=wl[k, 'tokens'] or [],
+                    Cognacy=cogid,
+                    Loan=wl[k, 'loan']
+                    )
+                args.writer.add_cognate(
+                    lexeme=row,
+                    ID=k,
+                    Cognateset_ID=cogid,
+                    Cognate_Detection_Method='expert',
+                    Doubt=loan,
+                    Source=[srckey])
 
-                    ds.add_concept(
-                        ID=slug(wl[k, 'concept'], lowercase=False),
-                        Name=wl[k, 'concept'],
-                        Concepticon_ID=gloss2con.get(wl[k, 'concept'], ''))
-                    for row in ds.add_lexemes(
-                        Language_ID=slug(doculect, lowercase=False),
-                        Parameter_ID=slug(wl[k, 'concept'], lowercase=False),
-                        Value=wl[k, 'ipa'],
-                        Source=[srckey],
-                        Segments=wl[k, 'tokens'] or [],
-                        Cognacy=cogid,
-                        Loan=wl[k, 'loan']
-                    ):
-                        cognates.append(ds.add_cognate(
-                            lexeme=row,
-                            ID=k,
-                            Cognateset_ID=cogid,
-                            Cognate_Detection_Method='expert',
-                            Doubt=loan,
-                            Source=[srckey]))
-
-                ds.align_cognates(lp.Alignments(wl), cognates, method='library')
-                for er in sorted(set(errors)):
-                    self.log.debug(er, dset)
+            for er in sorted(set(errors)):
+                self.log.debug(er, dset)
