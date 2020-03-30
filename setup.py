@@ -21,6 +21,10 @@ setup(
             'listcognatebenchmark=lexibank_listcognatebenchmark:Dataset',
         ]
     },
+    extras_require={
+        'test': [
+            'pytest-cldf',
+        ]},
     install_requires=[
         'pylexibank>=1.1.0',
     ]
